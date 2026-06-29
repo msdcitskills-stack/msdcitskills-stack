@@ -100,8 +100,26 @@ https://msdcskills.org/courses/?c_search&term_id=18
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=msdcitskills-stack&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=msdcitskills-stack&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# ❤️ Join Our Learning Community
+
+> Learn Today.
+
+> Build Tomorrow.
+
+> Lead the Future.
+
+---
+
+<div align="center">
+
+## ⭐ If you like our work, don't forget to Follow our Organization ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00C6FF&height=120&section=footer"/>
 
 </div>
