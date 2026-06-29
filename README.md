@@ -1,6 +1,4 @@
-<div align="center">
-
-<img src="https://msdcskills.org/wp-content/uploads/2023/09/MSDC_Logo_-_Resize-600x259.png" alt="MSDC Logo" width="350"/>
+<img width="1983" height="793" alt="ChatGPT Image Jun 29, 2026, 11_18_04 PM" src="https://github.com/user-attachments/assets/dcc134c4-e863-4f34-82e9-6c9381e22d5d" /><div align="center">
 
 # 🚀 School of IT Skills, MSDC
 
